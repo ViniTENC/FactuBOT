@@ -1,0 +1,19 @@
+# Secrets
+.env
+credentials.json
+*.pem
+*.key
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# OS / tooling
+.DS_Store
+.claude/
+
+# Sample invoices (may contain real business data)
+Prueba.jpg
+Prueba.pdf
